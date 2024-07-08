@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1669565998 source:c:\users\user\desktop\c c++\codeblocks\sakk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"debugmalloc.h"
+	"initialize.h"
+	"visuals.h"
+	"game.h"
+	"replay.h"
+
+1666589100 c:\users\user\desktop\c c++\codeblocks\sakk\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669569292 source:c:\users\user\desktop\c c++\codeblocks\sakk\initialize.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"initialize.h"
+	"game.h"
+	"saves.h"
+
+1669342038 c:\users\user\desktop\c c++\codeblocks\sakk\initialize.h
+	"troops.h"
+
+1669342001 c:\users\user\desktop\c c++\codeblocks\sakk\visuals.h
+	"troops.h"
+
+1669342079 source:c:\users\user\desktop\c c++\codeblocks\sakk\visuals.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"visuals.h"
+
+1669565491 c:\users\user\desktop\c c++\codeblocks\sakk\troops.h
+
+1669571419 source:c:\users\user\desktop\c c++\codeblocks\sakk\game.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"game.h"
+	"saves.h"
+
+1669510742 c:\users\user\desktop\c c++\codeblocks\sakk\game.h
+	"troops.h"
+
+1669553816 c:\users\user\desktop\c c++\codeblocks\sakk\saves.h
+	"troops.h"
+
+1669562614 source:c:\users\user\desktop\c c++\codeblocks\sakk\saves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debugmalloc.h"
+	"game.h"
+	"saves.h"
+
+1669585068 source:c:\users\user\desktop\c c++\codeblocks\sakk\replay.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"troops.h"
+	"game.h"
+
+1669568260 c:\users\user\desktop\c c++\codeblocks\sakk\replay.h
+
+1670509878 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\game.c
+	"switch.h"
+
+1666589100 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1670149717 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\game.h
+	"switch.h"
+
+1670149561 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\troops.h
+
+1670149990 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\saves.h
+	"troops.h"
+
+1670456810 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\main.c
+	"switch.h"
+
+1669342038 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\initialize.h
+	"troops.h"
+
+1670149754 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\visuals.h
+
+1670149781 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\replay.h
+
+1670261255 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\visuals.c
+	"switch.h"
+
+1670431518 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\initialize.c
+	"switch.h"
+
+1670457102 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\replay.c
+	"switch.h"
+
+1670340026 source:c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\saves.c
+	"switch.h"
+
+1670454735 c:\users\user\desktop\c c++\codeblocks\_nhf_vegleges\sakk\switch.h
+	"debugmalloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1670513478 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\game.c
+	"switch.h"
+
+1670458335 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\switch.h
+	"debugmalloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1666592700 c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1670435118 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\initialize.c
+	"switch.h"
+
+1670516065 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\main.c
+	"switch.h"
+
+1670460702 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\replay.c
+	"switch.h"
+
+1670343626 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\saves.c
+	"switch.h"
+
+1670264855 source:c:\users\user\desktop\egyetem\2022-23_oszi\prog\codeblocks\2022-23_oszi\_nhf_vegleges\sakk\visuals.c
+	"switch.h"
+
